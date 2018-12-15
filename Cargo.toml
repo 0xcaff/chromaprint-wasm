@@ -1,5 +1,5 @@
 [package]
-name = "chromaprint-web"
+name = "chromaprint-wasm"
 version = "0.1.0"
 authors = ["Martin Charles <martincharles07@gmail.com>"]
 edition = "2018"
